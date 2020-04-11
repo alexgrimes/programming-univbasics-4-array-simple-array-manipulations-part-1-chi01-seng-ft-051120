@@ -10,7 +10,7 @@ end
 
 def using_pop(array)
   contintents.pop
-  array = continents
+  continents = array 
   p array
 end 
 
