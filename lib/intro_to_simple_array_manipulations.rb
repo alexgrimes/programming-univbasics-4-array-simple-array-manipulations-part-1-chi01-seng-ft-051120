@@ -9,8 +9,7 @@ def using_unshift(array, string)
 end
 
 def using_pop(array)
-  contintents.pop
-  continents = array 
+  array.pop
   p array
 end 
 
